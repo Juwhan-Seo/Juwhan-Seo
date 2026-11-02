@@ -1,2 +1,1 @@
-### Hi, I'm JuHwan 👋
-**[LinkedIn ↗](https://www.linkedin.com/in/juhwanseo/)**.
+더 많은 정보를 확인하려면 <a href="https://www.linkedin.com/in/juhwanseo/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" align="center" /> <b>LinkedIn ↗</b></a>을 참고해 주세요.
